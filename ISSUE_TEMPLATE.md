@@ -8,10 +8,10 @@ Please provide detailed steps for reproducing the issue.
 2. step 2
 3. and so on...
 
-# Current Behavior
+## Current Behavior
 What is the current behavior?
 
-# Expected Behavior
+## Expected Behavior
 Please describe the behavior you are expecting
 
 ## Attachments
